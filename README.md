@@ -3,12 +3,12 @@
 An interactive web app that calculates your **Basal Metabolic Rate (BMR)** using height, weight, and age, and provides personalized meal suggestions tailored for your goals: **weight loss** or **muscle gain**.
 
 ## 🎨 **Features**
-- 🍏 **BMR Calculation** – Get an accurate BMR calculation based on your details.
-- 🍳 **Meal Recommendations** – Customized food plans for breakfast, lunch, dinner, and snacks to help you lose weight or gain muscle.
-- 🔒 **User Login** – Secure login for personalized access.
-- 🧑‍💻 **User Profile** – View and edit personal details.
-- 📱 **Responsive Design** – Fully optimized for both mobile and desktop devices.
-- 💪 **Goal-Based Plans** – Choose from weight loss or muscle gain meal plans.
+-  **BMR Calculation** – Get an accurate BMR calculation based on your details.
+-  **Meal Recommendations** – Customized food plans for breakfast, lunch, dinner, and snacks to help you lose weight or gain muscle.
+-  **User Login** – Secure login for personalized access.
+-  **User Profile** – View and edit personal details.
+-  **Responsive Design** – Fully optimized for both mobile and desktop devices.
+-  **Goal-Based Plans** – Choose from weight loss or muscle gain meal plans.
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** HTML, CSS, JavaScript, React
@@ -16,7 +16,7 @@ An interactive web app that calculates your **Basal Metabolic Rate (BMR)** using
 - **User Authentication:** Custom login and registration system
 - **Styling:** CSS for individual pages
 
-## 🚀 **Live Demo**
+##  **Live Demo**
 🔗 [View Live Demo](https://rimsha002.github.io/BMR-Calculator/)
 ) 
 
