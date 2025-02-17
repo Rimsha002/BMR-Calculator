@@ -25,7 +25,7 @@ An interactive web app that calculates your **Basal Metabolic Rate (BMR)** using
 ![Home Page](https://github.com/Rimsha002/BMR-Calculator/blob/main/images/home1.JPG)
 ![BMR calculator](https://github.com/Rimsha002/BMR-Calculator/blob/main/images/BMR1.JPG)
 ![Meal Recommendations](https://github.com/Rimsha002/BMR-Calculator/blob/main/images/snakes.JPG)
-![Profile] (https://github.com/Rimsha002/BMR-Calculator/blob/main/images/profile.JPG)
+![Profile](https://github.com/Rimsha002/BMR-Calculator/blob/main/images/profile.JPG)
 
 
 ## 🤝 **Contributing**
